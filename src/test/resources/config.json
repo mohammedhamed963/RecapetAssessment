@@ -1,0 +1,25 @@
+{
+  "invalidUser": {
+    "username": "wrong_user",
+    "password": "wrong_pass"
+  },
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "expectedItems": [
+    {
+      "name": "Sauce Labs Onesie",
+      "price": "$7.99"
+    },
+    {
+      "name": "Sauce Labs Bike Light",
+      "price": "$9.99"
+    }
+  ],
+  "customer": {
+    "firstName": "Test",
+    "lastName": "User",
+    "postalCode": "12345"
+  }
+}

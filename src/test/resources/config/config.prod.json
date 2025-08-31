@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://www.saucedemo.com",
+  "validUser": { "username": "standard_user", "password": "secret_sauce" },
+  "invalidUser": { "username": "wrong", "password": "wrong" },
+  "customer": { "firstName": "Jane", "lastName": "Smith", "postalCode": "98765" },
+  "expectedItems": [
+    { "name": "Sauce Labs Backpack", "price": "$29.99" },
+    { "name": "Sauce Labs Bolt T-Shirt", "price": "$15.99" }
+  ]
+}

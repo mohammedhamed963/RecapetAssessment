@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://staging.saucedemo.com",
+  "validUser": { "username": "standard_user", "password": "secret_sauce" },
+  "invalidUser": { "username": "wrong", "password": "wrong" },
+  "customer": { "firstName": "John", "lastName": "Doe", "postalCode": "12345" },
+  "expectedItems": [
+    { "name": "Sauce Labs Onesie", "price": "$7.99" },
+    { "name": "Sauce Labs Bike Light", "price": "$9.99" }
+  ]
+}
